@@ -1,0 +1,15 @@
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/XFPOC.iOS.exe.mdb
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/XFPOC.iOS.exe
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/XFPOC.iOS.exe
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/XFPOC.iOS.exe.mdb
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/XFPOC.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/bin/iPhoneSimulator/Debug/XFPOC.dll.mdb

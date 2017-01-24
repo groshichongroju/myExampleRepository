@@ -1,0 +1,5 @@
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Calabash.dll
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/mtouch-cache/Link/shareAppXamarin.exe
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll

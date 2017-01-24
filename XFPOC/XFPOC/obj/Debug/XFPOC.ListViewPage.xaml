@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XFPOC.ListViewPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+				<ListView x:Name="mylist" ItemSelected="OnSelection">
+				<ListView.Header>
+					<Label Text="ListHeader"/>
+				</ListView.Header>
+				<ListView.ItemsSource>
+				</ListView.ItemsSource>
+				<!--<ListView.ItemTemplate >
+				    <DataTemplate>
+				      <ViewCell >
+				         <ViewCell.ContextActions>
+				            <MenuItem Clicked="OnMore" CommandParameter="{Binding .}"
+				               Text="More" />
+				            <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}"
+				               Text="Delete" IsDestructive="True" />
+				         </ViewCell.ContextActions>
+				         <StackLayout Padding="15,0">
+				             <Label Text="{Binding title}" />
+				         </StackLayout>
+				      </ViewCell>
+				    </DataTemplate>
+                </ListView.ItemTemplate>-->
+				<ListView.Footer>
+					<Button Text ="back" Clicked="goback" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+				</ListView.Footer>
+				</ListView>
+	    </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

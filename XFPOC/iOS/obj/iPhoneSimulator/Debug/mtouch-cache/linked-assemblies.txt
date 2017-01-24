@@ -1,0 +1,15 @@
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/XFPOC.iOS.exe
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/XFPOC.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/cts_dep_amm00217/Desktop/groshi/XFPOC/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

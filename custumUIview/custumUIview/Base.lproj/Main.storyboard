@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="custumUIview" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9My-px-nrL" customClass="xibView" customModule="custumUIview" customModuleProvider="target">
+                                <rect key="frame" x="20" y="126" width="560" height="137"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <view contentMode="scaleToFill" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Bt5-OC-u6b" customClass="myclass" customModule="custumUIview" customModuleProvider="target">
+                                <rect key="frame" x="20" y="38" width="560" height="70"/>
+                                <color key="backgroundColor" red="0.067403368872406166" green="0.58707410854464981" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iVb-Iv-eDf">
+                                <rect key="frame" x="20" y="320" width="560" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.33234363599771111" blue="0.59983178435748274" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="7lO-q4-Bdo"/>
+                                </constraints>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" red="1" green="0.89852830095477554" blue="0.092402297454723392" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="onClick:" destination="BYZ-38-t0r" eventType="touchDown" id="2Eb-ny-buF"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="leading" secondItem="Bt5-OC-u6b" secondAttribute="leading" id="Eb5-41-SPW"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="iVb-Iv-eDf" secondAttribute="bottom" constant="250" id="Fbc-3T-2fx"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="PGR-OT-MmB"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="leading" secondItem="9My-px-nrL" secondAttribute="leading" id="Qor-G3-ooM"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="top" secondItem="9My-px-nrL" secondAttribute="bottom" constant="57" id="Rbx-hj-kmq"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="trailing" secondItem="Bt5-OC-u6b" secondAttribute="trailing" id="ZL2-C5-Yc8"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="Zhg-1C-NaU"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="a2E-jX-AKr"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="top" secondItem="9My-px-nrL" secondAttribute="bottom" constant="57" id="aZb-eV-YPz"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="iVb-Iv-eDf" secondAttribute="bottom" constant="250" id="eVo-nX-U6o"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="trailing" secondItem="9My-px-nrL" secondAttribute="trailing" id="edT-LK-F0X"/>
+                            <constraint firstItem="iVb-Iv-eDf" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="wx2-3k-9nF"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="134" y="291"/>
+        </scene>
+        <!--Groshi View Controller-->
+        <scene sceneID="SP8-x6-HAq">
+            <objects>
+                <viewController storyboardIdentifier="groshiboard" useStoryboardIdentifierAsRestorationIdentifier="YES" id="S3b-sX-7Jy" customClass="groshiViewController" customModule="custumUIview" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="5dd-nP-qtX"/>
+                        <viewControllerLayoutGuide type="bottom" id="Qv8-bl-CF8"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="vfD-bn-r1A">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="hello" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bKW-bd-jqR">
+                                <rect key="frame" x="205" y="148" width="110" height="21"/>
+                                <color key="backgroundColor" red="0.28769197550217607" green="0.23928030571064662" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KSC-SL-4R2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="805" y="291"/>
+        </scene>
+    </scenes>
+</document>

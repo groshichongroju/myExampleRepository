@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{06B38387-5052-4D6A-9A4E-8A458264AEB8}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="XFPOC/RegistrationPage.xaml.cs" Line="17" Column="3" />
+      <File FileName="iOS/Main.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XFPOC.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFPOC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.03F384C0-C987-4245-9D8F-2CF343AAFEA5" />
+</Properties>

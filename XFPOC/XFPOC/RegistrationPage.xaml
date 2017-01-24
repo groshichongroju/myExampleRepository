@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		     x:Class="XFPOC.RegistrationPage">
+	<ContentPage.Content>
+		<ScrollView>
+
+			<Frame Padding="25" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+				<StackLayout Orientation="Vertical">
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="Name" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="name" Placeholder="Full name" Keyboard="Text" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="Username *" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="username" Placeholder="username" Keyboard="Text" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="Password *" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="password" Placeholder="password" IsPassword="true" Keyboard="Text" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>	
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="ConfirmPassword *" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="confirmpassword" Placeholder="confirmpassword" IsPassword="true" Keyboard="Text" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="Email id" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="emailid" Placeholder="Email id" Keyboard="Email" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="Mobile" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="mobile" Placeholder="Mobile number" Keyboard="Telephone" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					<StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+						<Label Text="D.O.B" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Entry x:Name="dob" Placeholder="Date Of Birth" Keyboard="Text" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+					
+					
+					<StackLayout Padding="0,20,0,0">
+						<Button Text="save" Clicked="saveclickButton" BackgroundColor="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						<Button Text="cancel" Clicked="cancelclickButton" BackgroundColor="Silver" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+					</StackLayout>
+				 </StackLayout>
+			</Frame>
+		</ScrollView>
+		
+	</ContentPage.Content>
+</ContentPage>

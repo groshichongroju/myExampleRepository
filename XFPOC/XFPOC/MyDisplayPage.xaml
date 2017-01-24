@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XFPOC.MyDisplayPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical" Padding="0,80,0,80" Spacing="50">
+
+			<StackLayout Orientation="Vertical">
+			<Label Text="hi" x:Name="displayText" TextColor="Black" VerticalOptions="Center" HorizontalOptions="FillAndExpand"/>
+			</StackLayout>
+			<StackLayout Orientation="Vertical">
+				<Button Clicked="goback" Text="back" BackgroundColor="Silver" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+			</StackLayout>
+	  </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

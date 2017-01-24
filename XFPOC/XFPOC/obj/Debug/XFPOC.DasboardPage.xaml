@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XFPOC.DasboardPage">
+	<ContentPage.Content>
+		<TableView Intent="Data" BackgroundColor="Silver">
+		  <TableView.Root>
+				<TableSection Title="Table view Root Title" x:Name="mySection" >
+					
+					<EntryCell Text="Name" Placeholder="Type Your Name">
+					</EntryCell>
+					<SwitchCell Text="Power" On="false"></SwitchCell>
+					<ViewCell>
+						<StackLayout Orientation="Horizontal">
+							<StackLayout Orientation ="Horizontal">
+							<Label Text="Status" HorizontalOptions="FillAndExpand"/>
+							<Stepper Maximum="10" Minimum="2" Value="3" HorizontalOptions="FillAndExpand"/>
+						    </StackLayout>
+							<StackLayout Orientation="Horizontal">
+							<Label Text="DATE"></Label>
+								<DatePicker  x:Name="datepicker" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+						    </StackLayout>
+						</StackLayout>
+					</ViewCell>
+					<ViewCell>
+						<StackLayout Orientation="Horizontal">
+							<StackLayout>
+							<Label Text="Hello world! this is from section view"></Label>
+						    </StackLayout>
+							<StackLayout>
+							<Label Text="Hello world! this is from section view"></Label>
+						    </StackLayout>
+						</StackLayout>
+					</ViewCell>
+					<ViewCell>
+						<StackLayout Orientation="Horizontal">
+							<StackLayout>
+							<Label Text="Hello world! this is from section view"></Label>
+						    </StackLayout>
+							<StackLayout>
+							<Button Text="back" HorizontalOptions="FillAndExpand" BackgroundColor="Green" Clicked="toBack"/>
+						    </StackLayout>
+						</StackLayout>
+					</ViewCell>
+
+				</TableSection>
+
+		  </TableView.Root>
+	
+		</TableView>	
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,10 @@
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/optimized/
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/bin/iPhoneSimulator/Debug/shareAppXamarin.exe.mdb
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/bin/iPhoneSimulator/Debug/shareAppXamarin.exe
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/shareAppXamarin.exe
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/obj/iPhoneSimulator/Debug/shareAppXamarin.exe.mdb
+/Users/cts_dep_amm00217/Desktop/groshi/shareAppXamarin/shareAppXamarin/bin/iPhoneSimulator/Debug/Calabash.dll

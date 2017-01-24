@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0C3FB9FB-C08D-4EC9-A89C-3BA323FF4000}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SahareAppXamarin/MainActivity.cs">
+    <Files>
+      <File FileName="shareAppXamarin/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CommonCode/add.cs" Line="20" Column="6" />
+      <File FileName="shareAppXamarin/ViewController.cs" Line="20" Column="53" />
+      <File FileName="shareAppXamarin/Main.cs" Line="1" Column="1" />
+      <File FileName="SahareAppXamarin/MainActivity.cs" Line="23" Column="97" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SahareAppXamarin.droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.ItemProperties.shareAppXamarin.ios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEFD0593-0F58-4357-8BC9-BCF429329D75" />
+</Properties>
